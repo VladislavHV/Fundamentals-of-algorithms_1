@@ -5,3 +5,4 @@ public class IndexOutOfBoundException extends RuntimeException {
         super(message);
     }
 }
+

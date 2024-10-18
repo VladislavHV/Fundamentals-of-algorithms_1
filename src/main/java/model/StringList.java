@@ -30,3 +30,4 @@ public interface StringList {
 
     String[] toArray();
 }
+

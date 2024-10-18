@@ -5,3 +5,4 @@ public class NullItemException extends RuntimeException {
         super(message);
     }
 }
+
